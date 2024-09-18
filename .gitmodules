@@ -1,0 +1,6 @@
+[submodule "AdaptivePerf"]
+	path = AdaptivePerf
+	url = https://github.com/AdaptivePerf/AdaptivePerf
+[submodule "AdaptivePerfHTML"]
+	path = AdaptivePerfHTML
+	url = https://github.com/AdaptivePerf/AdaptivePerfHTML
